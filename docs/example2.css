@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+button{
+    width: 100px;
+    height: 32px;
+}
+#progress{
+    width: 200px;
+}
+.vid{
+    position: relative;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.videos{
+    display: flex;
+    margin-bottom: 8px;
+}
+.duration{
+    font-family: Arial, Helvetica;
+    color: white;
+    font-size: 12px;
+    position: absolute;
+    left: 8px;
+    top: 8px;
+}
