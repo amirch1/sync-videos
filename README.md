@@ -11,5 +11,5 @@ This demo shows how to sync playback of 2 videos using the following logic:
 * [Demo 1](https://amirch1.github.io/sync-videos/example1.html) 
 * [Demo 2](https://amirch1.github.io/sync-videos/example2.html) 
 
-##License
+## License
 The code is distributed under the MIT License (MIT). You can use and change it freely as long as you include the copyright notice.
